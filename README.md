@@ -59,7 +59,9 @@
       <div style="text-align: left;"> 
         <img src="https://github-readme-stats.vercel.app/api?username=seoyeon2001&show_icons=true" /> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon2001&layout=compact" /> 
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syeon1250"/>
+        <div align= "center">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syeon1250"/>
+        </div>
       </div> 
     </div>
     <!-- see you farm -->
